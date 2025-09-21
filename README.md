@@ -51,6 +51,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [MonkeyMask](https://www.monkeymask.cc/) - Modern browser extension wallet.
 - [Nault](https://banano.nault.cc/) - An instance of Nault wallet for Banano (unstable).
 - [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - Production-ready, high-performance developer wallet for Nano and Banano.
+- [Potassius](https://github.com/perishllc/potassius) - Potassium Rich BANANO Wallet 
 - [Stack Wallet](https://github.com/cypherstack/stack_wallet) - Open-source mobile wallet supporting multiple currencies.
 - [The Banano Stand](https://thebananostand.com/) - Open-source web wallet supporting hardware wallet.
 
@@ -96,7 +97,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Prussia's Banano Faucet](https://faucet.prussia.dev/) - A simple faucet with 24h cooldown.
 - [TNV Banano Faucet](https://banano-faucet.herokuapp.com/) - "Fill up your wallet every day".  A simple faucet with 24h cooldown.
 - [Try Banano!](https://trybanano.com/)
-- [Yet Another BAN Faucet](
+- [Yet Another BAN Faucet](https://banano-faucet.com/)
 
 ## Exchanges
 ### (Exchanges are roughly sorted by liquidity – highest first)
