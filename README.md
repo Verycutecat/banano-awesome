@@ -43,16 +43,17 @@ Please read the [Contributing guide](./Contributing.md).
 
 ## Wallets
 
-- [Kalium](https://kalium.banano.cc/) - Banano's official mobile wallet.
-- [BANANO Vault](https://vault.banano.cc/) - Open-source web wallet.
-- [The Banano Stand](https://thebananostand.com/) - Open-source web wallet supporting hardware wallet.
-- [Nault](https://banano.nault.cc/) - An instance of Nault wallet for Banano (unstable).
-- [jungleVault](https://github.com/Kaffidev/jungleVault) - A browser extension.
-- [MonkeyMask](https://www.monkeymask.cc/) - Modern browser extension wallet.
-- [dagchat](https://github.com/derfarctor/dagchat) - Open-source TUI desktop wallet.
-- [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - Production-ready, high-performance developer wallet for Nano and Banano.
 - [Banano Wiki](https://github.com/BananoCoin/banano/wiki) - How to build and run Banano node etc.
+- [dagchat](https://github.com/derfarctor/dagchat) - Open-source TUI desktop wallet.
+- [jungleVault](https://github.com/Kaffidev/jungleVault) - A browser extension.
+- [Kalium](https://kalium.banano.cc/) - Banano's official mobile wallet.
 - [Light Paper Wallets](https://nanoo.tools/light-paperwallets) - Nano and Banano paper wallets generator.
+- [MonkeyMask](https://www.monkeymask.cc/) - Modern browser extension wallet.
+- [Nault](https://banano.nault.cc/) - An instance of Nault wallet for Banano (unstable).
+- [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - Production-ready, high-performance developer wallet for Nano and Banano.
+- [Stack Wallet](https://github.com/cypherstack/stack_wallet) - Open-source mobile wallet supporting multiple currencies.
+- [The Banano Stand](https://thebananostand.com/) - Open-source web wallet supporting hardware wallet.
+
 
 ## Block Explorers
 
