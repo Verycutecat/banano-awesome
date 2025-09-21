@@ -48,6 +48,8 @@ Please read the [Contributing guide](./Contributing.md).
 - [The Banano Stand](https://thebananostand.com/) - Open-source web wallet supporting hardware wallet.
 - [Nault](https://banano.nault.cc/) - An instance of Nault wallet for Banano (unstable).
 - [jungleVault](https://github.com/Kaffidev/jungleVault) - A browser extension.
+- [MonkeyMask](https://www.monkeymask.cc/) - Modern browser extension wallet.
+- [dagchat](https://github.com/derfarctor/dagchat) - Open-source TUI desktop wallet.
 - [Pippin Developer Wallet](https://github.com/appditto/pippin_nano_wallet) - Production-ready, high-performance developer wallet for Nano and Banano.
 - [Banano Wiki](https://github.com/BananoCoin/banano/wiki) - How to build and run Banano node etc.
 - [Light Paper Wallets](https://nanoo.tools/light-paperwallets) - Nano and Banano paper wallets generator.
@@ -58,6 +60,7 @@ Please read the [Contributing guide](./Contributing.md).
 - [Bananode.eu BananoCreeper](https://creeper.bananode.eu/)
 - [BananoLooker](https://www.bananolooker.com/) - Block explorer based on NanoLooker ([repo](https://github.com/running-coder/nanolooker/tree/bananolooker)).
 - [Moonano](https://moonano.net/) - Community-made Explorer, BAN Distribution Chart, ledgerfile snapshots and more.
+- [Nanexplorer](https://nanexplorer.com/banano) - Explorer powered by Nanswap.
 
 ## Faucets
 
